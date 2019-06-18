@@ -1,5 +1,7 @@
 package com.bawei.userpic;
 
-public class UploadEntity extends BaseResponse {
+public class UploadEntity{
     public String headPath;
+    public String message;
+    public String status;
 }
